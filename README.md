@@ -1,4 +1,4 @@
-# Planejei - Frontend
+# Planejei 
 
 ## Tecnologias Utilizadas
 
